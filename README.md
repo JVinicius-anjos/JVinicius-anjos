@@ -11,6 +11,5 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv1899&show_icons=true&theme=shadow_red&layout=compact&langs_count=16"/>
 </div>
 
-##
 
 ![Snake animation](https://github.com/jv1899/jv1899/blob/output/github-contibution-grid-snake-.svg)
