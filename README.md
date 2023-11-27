@@ -20,4 +20,5 @@
   <a href="https://www.linkedin.com/in/jorge-vinicius-jesus-dos-anjos-75189381/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
 ![Snake animation](https://github.com/jv1899/jv1899/blob/output/github-contibution-grid-snake-.svg)
