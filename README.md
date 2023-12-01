@@ -21,4 +21,3 @@
   
 </div>
 
-![Snake animation](https://github.com/jv1899/jv1899/blob/output/github-contibution-grid-snake-.svg)
