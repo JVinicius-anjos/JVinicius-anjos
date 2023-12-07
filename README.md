@@ -7,8 +7,8 @@
 
 <div>
  <a href="https://www.linkedin.com/in/jorge-vinicius-jesus-dos-anjos-75189381/">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jv1899&rank_icon=github&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv1899&show_icons=true&theme=shadow_red&layout=compact&langs_count=16"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVinicius-anjos&rank_icon=github&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVinicius-anjos&show_icons=true&theme=shadow_red&layout=compact&langs_count=16"/>
 </div>
 
 ##
